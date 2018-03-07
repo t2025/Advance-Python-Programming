@@ -1,0 +1,35 @@
+1. Given are two one-dimensional arrays A and B which are sorted in ascending order. Write a program to merge them into a single sorted array C that contains every item from arrays A and B, in ascending order. [List]
+
+2. Get this output using simple loops. Here no of iterations are important. 
+ABBCCCDDDDEEEEE 
+AABBBCCCCDDDDD 
+AAABBBBCCCCC 
+AAAABBBBB 
+AAAAA
+
+3. Write a program using List in Python (don't use built in functions)
+   1. Add Element at the beginning
+   2. Add Element at specific position
+   3. Search an element into list and print its position
+   4. Count how many even, odd and prime numbers in the list
+   5. Find the duplicate elements in the list
+   6. Add element at the end in the list
+   7. Sort Elements in Ascending and Descending Order
+   8. Check two list, if they are equal or not
+
+4. Write a program to check whether two matrices are equal or not.
+
+5. Write a Python program to count frequency of digits in a given number.
+	Example: 123123112296
+	Output
+	Frequency of 0 = 0
+	Frequency of 1 = 4
+	Frequency of 2 = 4
+	Frequency of 3 = 2
+	Frequency of 4 = 0
+	Frequency of 5 = 0
+	Frequency of 6 = 1
+	Frequency of 7 = 0
+	Frequency of 8 = 0
+	Frequency of 9 = 1
+	

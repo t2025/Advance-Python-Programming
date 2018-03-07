@@ -1,0 +1,48 @@
+1.Write a expenses tracker program which do following tasks:
+a) Login into the system and do following:
+1 Add daily expenses as per category 
+2 Find the total expenses for each day
+3 Find the total expenses made by you as per category
+4 Find the total expenses between 2 dates
+5 Display expenses records from databases.
+6 Update the existing records fro expenses if you made wrong entry1. 
+	
+b) Change password for logged in user:
+Forgot password
+Ask username --> Security Questions
+
+2. Write a bank transaction system from transerfing amount from one account to another
+Minimum balance in an account ==1000Rs.
+Error message display 
+Account 
+-------
+Acc no.
+Acc holder name 
+Balance 
+Acc type varchar 
+
+Write a program of attendance tracker for the students 
+----------------------------------------------------------
+   Add student into the DB(send email to the mail address)
+   Admin login to system
+   Student details
+   Mark attendance
+   Find total present in the particular day /ABS
+   Find individual attendance of a month 
+   exit
+   Message API integration (MSG91)
+----------------------------------------------
+Student registered-> Random password Mail and store to db.
+Change password->Mail sentto User registered mail
+Forgot password--> Send mail to registered user 
+
+   
+
+sender 
+1 Add account detailsinto db 
+2 Show details of logged in user :
+3 Transfer 
+4 Exit 
+
+
+

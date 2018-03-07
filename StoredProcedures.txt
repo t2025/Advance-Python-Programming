@@ -1,0 +1,10 @@
+Create procedure studentprocedure(
+In spname varchar(500),
+In fpname varchar(500),
+In addressp varchar(500),
+In mobilep varchar(500),
+In sidp int
+)
+BEGIN
+insert into student values(spname,fpname,addressp,mobilep,sidp) 
+END;
