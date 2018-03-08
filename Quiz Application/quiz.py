@@ -15,15 +15,9 @@ def insert():
             print("success")
     except:
         print("Database connection error")
-def show_question():
-    try:
-        sql="select qid,question,optionA,optionB,optionC,optionD from quiz_app"
-        cursor.exceute(sql)
-        rows=cursor.fetchall()
-        for row in rows:
-            print("Success")
-    except Exception as e:
-        print("Error")    
+#Add question
+def add_question():
+    
 login=Toplevel(root)            
 Label(login,text='Admin Login Form',fg='green').grid(row=0,column=1)
 Label(login,text='Username',fg='green').grid(row=1,column=0)
